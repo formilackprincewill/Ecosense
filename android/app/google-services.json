@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "855568860834",
+    "project_id": "ecosense-6d135",
+    "storage_bucket": "ecosense-6d135.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855568860834:android:5fe24ed723b9bbc9a3f9fb",
+        "android_client_info": {
+          "package_name": "com.example.ecosense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855568860834-5fk6cvlr6mno8b0q6o2cigo6jf2b7he3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecosense",
+            "certificate_hash": "346f64fb8017816346b6d4c0ea8256fa6b557db8"
+          }
+        },
+        {
+          "client_id": "855568860834-r17oc3pb1mtra469v38ulun8krn6qs76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTJsYVP93ok76nJmcu5dLfu-3bcee_fKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855568860834-r17oc3pb1mtra469v38ulun8krn6qs76.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855568860834-evvp36h3nlulp9pbf2ojn8jtms9prq9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecosense"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
